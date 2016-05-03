@@ -1,1 +1,2 @@
 # reactDemo
+npm start
